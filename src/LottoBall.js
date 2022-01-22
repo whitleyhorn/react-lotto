@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './LottoBall.css';
 
 class LottoBall extends Component {
     render(){

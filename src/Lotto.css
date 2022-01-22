@@ -1,0 +1,17 @@
+.Lotto-balls {
+     display:  flex;
+     justify-content: space-around;
+     width: 86%;
+     margin: 0 auto;
+}
+
+.Lotto:nth-child(2) .Lotto-balls {
+    width: 55%;
+}
+
+.Lotto-button {
+    background: #200b86;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
